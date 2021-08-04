@@ -1,6 +1,6 @@
-package com.transacao.config;
+package com.transacao.infra.config;
 
-import com.transacao.dto.TransacaoDto;
+import com.transacao.infra.dto.TransacaoDto;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.common.serialization.StringDeserializer;
 import org.springframework.boot.autoconfigure.kafka.KafkaProperties;

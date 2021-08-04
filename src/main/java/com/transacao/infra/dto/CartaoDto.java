@@ -1,4 +1,4 @@
-package com.transacao.dto;
+package com.transacao.infra.dto;
 
 public class CartaoDto {
 

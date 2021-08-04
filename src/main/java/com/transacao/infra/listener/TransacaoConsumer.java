@@ -1,6 +1,6 @@
-package com.transacao.listener;
+package com.transacao.infra.listener;
 
-import com.transacao.dto.TransacaoDto;
+import com.transacao.infra.dto.TransacaoDto;
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Service;
 
